@@ -1,7 +1,7 @@
 {
   "main": "server.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --detectOpenHandles",
     "start": "node src/server.js"
   },
   "dependencies": {
