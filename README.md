@@ -1,6 +1,6 @@
-# Web-scrapping with Nodejs and Cheerio
+# Web scraping with Nodejs and Cheerio
 
-CI pipeline for a web-scrapper build with Nodejs and Cheerio
+CI pipeline for a web scraper built with Nodejs and Cheerio
 
 ## Install dependencies
 
@@ -26,7 +26,7 @@ Expect a response like the screenshot below depicts and a file in the `data` fol
 
 ![Postman screenshot](image.png)
 
-## Test the scrapper
+## Test the scraper
 
 Run
 
